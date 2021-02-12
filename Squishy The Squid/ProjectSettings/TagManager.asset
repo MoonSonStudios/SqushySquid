@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PointsDisplay
+  - LevelsDisplay
+  - Enemy
+  - GameManager
+  - MasterRoom
+  - TimeDisplay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Room
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1528614109
+    locked: 0
+  - name: Midground
+    uniqueID: 2544634559
+    locked: 0
+  - name: InteractableLayer
+    uniqueID: 2996416269
+    locked: 0
+  - name: Foreground
+    uniqueID: 822637387
+    locked: 0
+  - name: Foreground2
+    uniqueID: 3991060227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
